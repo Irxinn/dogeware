@@ -1166,3 +1166,8 @@ Movement:Slider("JumpPower Value",16,150,16, function(value)
    JumpPowerValue = value
    game.Players.LocalPlayer.Character.Humanoid.JumpPower = JumpPowerValue
 end)
+
+Credits:Label("crosszay1 - Scripting")
+Credits:Label("doge")
+	end
+end)
